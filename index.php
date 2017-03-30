@@ -1,7 +1,4 @@
-﻿﻿﻿﻿<br>
-<h1><center><script src="Rameezbot.js"></script><h1>
-</center>
-<center><div id ="example1"></div></center><br>
+﻿﻿﻿﻿
 <?php 
 session_start();
 error_reporting(0);
